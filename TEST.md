@@ -1,2 +1,1 @@
-# Hacktoberfest
 # Bookvar welcomes you
